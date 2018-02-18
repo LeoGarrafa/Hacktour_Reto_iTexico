@@ -9,4 +9,6 @@ En la realidad, los siguientes archivos deben correr en paralelo:
     
 Si desean "simular":
   - Correr sólo "IoT_main.py", pero antes...
-  - Commenten las lineas de código dónde aparece "fb_api".
+  - Comenten las lineas de código dónde aparece "fb_api".
+  - Modifiquen el archivo "dict_sensors" para poner diferentes valores a los sensores.
+  - Vean resultados en "dummy_report" (generado durante el proceso).
